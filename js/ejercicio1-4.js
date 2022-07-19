@@ -10,7 +10,7 @@ document.write('<h1>Hello World</h1>');
 
 document.write('<br>Resultado: '+ (3 + 5));
 
-// // 4.- Escribe un programa de dos líneas que pida el nombre del usuario con un prompt y escriba un texto que diga «Hola nombreUsuario.»
+//  4.- Escribe un programa de dos líneas que pida el nombre del usuario con un prompt y escriba un texto que diga «Hola nombreUsuario.»
 let nombreUsuario = prompt ('Nombre del usuario');
 console.log (nombreUsuario)
 
